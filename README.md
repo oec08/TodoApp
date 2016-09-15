@@ -25,7 +25,9 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* I plan to implement the DialogFragment, and to add support for a checkbox in the listview item.
+
+* [x] I plan to tweak the UI as well.
 
 ## Video Walkthrough 
 
